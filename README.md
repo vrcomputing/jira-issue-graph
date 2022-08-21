@@ -53,6 +53,12 @@ color = {
 }
 ```
 
+# Features
+
+- ✅ Visualize all relation types
+- ✅ Hyperlink to issue in graph node
+- ✅ Blocked issues and blocking relations highlighted in red
+
 # Usage
 
 ```

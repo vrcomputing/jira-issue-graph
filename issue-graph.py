@@ -28,15 +28,18 @@ def label_for_node(type, key, summary, status):
 
 def main():
 
+    # define command line argument parser
     parser = argparse.ArgumentParser(
         description='Exports a JIRA issue graph as a Graphviz digraph.')
-    parser.add_argument('--query', help="A valid JQL query providing issues.", required=True)
+    parser.add_argument(
+        '--query', help="A valid JQL query providing issues.", required=True)
     parser.add_argument('--ignore-clones', action='store_true', default=False,
                         help='If set clone relations are being ignore.')
     parser.add_argument(
         '--output', type=argparse.FileType('w', encoding='UTF-8'), required=False, help="If defined the graph's source will be written to this file, otherwise to the command line.")
     args = parser.parse_args()
 
+    # check required environment variables
     server = os.getenv('JIRA_SERVER')
     if server is None:
         raise Exception("Missing requied environment variable 'JIRA_SERVER'")
@@ -47,6 +50,7 @@ def main():
     if server is None:
         raise Exception("Missing requied environment variable 'JIRA_PASSWORD'")
 
+    # create jira client
     jiraOptions = {'server': server}
     jira = JIRA(options=jiraOptions, basic_auth=(user, apiKey))
 
@@ -81,6 +85,7 @@ def main():
             #     dot.edge(issue.key, inwardIssue.key,
             #              link.type.inward, color=color, fontname="sans-serif")
 
+    # output the graph either to a file or stdout
     if args.output:
         with open('graph.dot', 'w', encoding="utf-8") as f:
             f.write(dot.source)
