@@ -1,3 +1,4 @@
+from tokenize import String
 from jira.client import JIRA
 import graphviz  # for dot graph rendering/export
 import os  # for environment variable
@@ -31,22 +32,28 @@ def main():
 
     parser = argparse.ArgumentParser(
         description='Exports a JIRA issue graph as a Graphviz digraph.')
+    parser.add_argument('--query', help="A valid JQL query providing issues.", required=True)
     parser.add_argument('--ignore-clones', action='store_true', default=False,
-                        help='If set clone relations are being ignore')
+                        help='If set clone relations are being ignore.')
     parser.add_argument(
-        '--output', type=argparse.FileType('w', encoding='UTF-8'), required=False, help="If defined the graph's source will be written to this file, otherwise to the command line")
+        '--output', type=argparse.FileType('w', encoding='UTF-8'), required=False, help="If defined the graph's source will be written to this file, otherwise to the command line.")
     args = parser.parse_args()
 
     server = os.getenv('JIRA_SERVER')
+    if server is None:
+        raise Exception("Missing requied environment variable 'JIRA_SERVER'")
     user = os.getenv('JIRA_USER')
+    if server is None:
+        raise Exception("Missing requied environment variable 'JIRA_USER'")
     apiKey = os.getenv('JIRA_PASSWORD')
-    jql = os.getenv('JIRA_ISSUE_QUERY')
+    if server is None:
+        raise Exception("Missing requied environment variable 'JIRA_PASSWORD'")
 
     jiraOptions = {'server': server}
     jira = JIRA(options=jiraOptions, basic_auth=(user, apiKey))
 
     dot = graphviz.Digraph()
-    for issue in jira.search_issues(jql_str=jql):
+    for issue in jira.search_issues(jql_str=args.query):
         key = issue.key
         status = issue.fields.status.name
         summary = issue.fields.summary
