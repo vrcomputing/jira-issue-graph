@@ -1,4 +1,3 @@
-from tokenize import String
 from jira.client import JIRA
 import graphviz  # for dot graph rendering/export
 import os  # for environment variable
