@@ -31,9 +31,11 @@ e.g.
 JIRA_SERVER="https://<>.atlassian.net"
 # your user name e.g. e-mail
 JIRA_USER="<USERNAME>"
-# your personal access token
-JIRA_PASSWORD="<PAT>"
+# your api token
+JIRA_PASSWORD="<API-TOKEN>"
 ```
+
+> See: [Create and manage API tokens](https://id.atlassian.com/manage-profile/security/api-tokens)
 
 ## Internationalization
 
