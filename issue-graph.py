@@ -1,7 +1,6 @@
 from jira.client import JIRA
 import graphviz  # for dot graph rendering/export
 import os  # for environment variable
-import re  # for pattern matchin
 import argparse  # for parsing command line arguments
 
 
