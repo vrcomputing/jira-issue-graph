@@ -20,8 +20,8 @@ def label_for_node(type, key, summary, status):
     # see: https://renenyffenegger.ch/notes/tools/Graphviz/attributes/label/HTML-like/index
     return f'''< <table border="0"><tr>
         <td bgcolor="{color[type]["bgcolor"]}"><font color="{color[type]["fgcolor"]}">{type.upper()}</font></td>
-        <td>{key}</td>
-        <td>{summary}</td>
+        <td bgcolor="#F5F5F5">{key}</td>
+        <td bgcolor="#F5F5F5">{summary}</td>
         <td bgcolor="{color[status]["bgcolor"]}"><font color="{color[status]["fgcolor"]}">{status.upper()}</font></td>
         </tr></table> >'''
 
