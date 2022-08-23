@@ -68,7 +68,7 @@ def main():
             color="black" if status.lower().find('block') == -1 else "red",
             shape="rect",
             style="rounded",
-            fontname="sans-serif",
+            fontname="Arial",
             tooltip=f"Click to open: {key} - {summary}")
         for link in issue.fields.issuelinks:
             if hasattr(link, "type"):
@@ -78,12 +78,12 @@ def main():
                 outwardIssue = link.outwardIssue
                 color = "black" if link.type.outward.lower().find('block') == -1 else "red"
                 dot.edge(issue.key, outwardIssue.key,
-                         link.type.outward, color=color, fontname="sans-serif")
+                         link.type.outward, color=color, fontname="Arial")
             # if hasattr(link, "inwardIssue"):
             #     inwardIssue = link.inwardIssue
             #     color = color_for_expression(link.type.inward)
             #     dot.edge(issue.key, inwardIssue.key,
-            #              link.type.inward, color=color, fontname="sans-serif")
+            #              link.type.inward, color=color, fontname="Arial")
 
     # output the graph either to a file or stdout
     if args.output:
