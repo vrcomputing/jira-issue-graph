@@ -1,139 +1,153 @@
 <?xml version="1.0" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="705pt" height="310pt" viewBox="0.00 0.00 704.5 310.4">
-<g id="graph0" class="graph" transform="translate(47.06769114861686,266.5095773048888) scale(0.8705505632961297)" data-name="">
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-306.4 700.5,-306.4 700.5,4 -4,4"/>
-<!-- GEIL&#45;4 -->
-<!-- GEIL&#45;6 -->
-<g id="node1" class="node" pointer-events="visible" data-name="ISSUE-8" data-comment="GEIL-6">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="799pt" height="310pt" viewBox="0.00 0.00 798.5 310.40">
+<g id="graph0" class="graph" transform="translate(51.3949817984971,260.3131805248905) scale(0.7578582832552009)" data-name="">
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-306.4 794.5,-306.4 794.5,4 -4,4"/>
+<!-- EXAMPLE&#45;8 -->
+<g id="node1" class="node" pointer-events="visible" data-name="EXAMPLE-8" data-comment="EXAMPLE-8">
 
-<g id="a_node1"><a xlink:href="https://rickvogel.atlassian.net/browse/ISSUE-8" xlink:title="Click to open: ISSUE-8 - Concept" style="">
-<path fill="none" stroke="black" d="M213,-302.4C213,-302.4 12,-302.4 12,-302.4 6,-302.4 0,-296.4 0,-290.4 0,-290.4 0,-278.4 0,-278.4 0,-272.4 6,-266.4 12,-266.4 12,-266.4 213,-266.4 213,-266.4 219,-266.4 225,-272.4 225,-278.4 225,-278.4 225,-290.4 225,-290.4 225,-296.4 219,-302.4 213,-302.4" style=""/>
-<polygon fill="#00875a" stroke="transparent" points="10.5,-274.4 10.5,-294.4 59.5,-294.4 59.5,-274.4 10.5,-274.4" style=""/>
-<text text-anchor="start" x="12.05" y="-279.8" font-family="sans-serif" font-size="14.00" fill="#e3fcef" style="">STORY</text>
-<text text-anchor="start" x="63.22" y="-279.8" font-family="sans-serif" font-size="14.00" style="">ISSUE-8</text>
-<text text-anchor="start" x="119.17" y="-279.8" font-family="sans-serif" font-size="14.00" style="">Concept</text>
-<polygon fill="#c1c7d0" stroke="transparent" points="169.5,-274.4 169.5,-294.4 215.5,-294.4 215.5,-274.4 169.5,-274.4" style=""/>
-<text text-anchor="start" x="171.31" y="-279.8" font-family="sans-serif" font-size="14.00" fill="#42526e" style="">TO DO</text>
+<g id="a_node1"><a xlink:href="https://rickvogel.atlassian.net/browse/EXAMPLE-8" xlink:title="Click to open: EXAMPLE-8 - Concept">
+<path fill="none" stroke="black" d="M252,-302.4C252,-302.4 12,-302.4 12,-302.4 6,-302.4 0,-296.4 0,-290.4 0,-290.4 0,-278.4 0,-278.4 0,-272.4 6,-266.4 12,-266.4 12,-266.4 252,-266.4 252,-266.4 258,-266.4 264,-272.4 264,-278.4 264,-278.4 264,-290.4 264,-290.4 264,-296.4 258,-302.4 252,-302.4"/>
+<polygon fill="#00875a" stroke="transparent" points="10,-274.4 10,-294.4 62,-294.4 62,-274.4 10,-274.4"/>
+<text text-anchor="start" x="11.89" y="-279.8" font-family="Arial" font-size="14.00" fill="#e3fcef">STORY</text>
+<polygon fill="#f5f5f5" stroke="transparent" points="64,-274.4 64,-294.4 146,-294.4 146,-274.4 64,-274.4"/>
+<text text-anchor="start" x="65.71" y="-279.8" font-family="Arial" font-size="14.00">EXAMPLE-8</text>
+<polygon fill="#f5f5f5" stroke="transparent" points="148,-274.4 148,-294.4 204,-294.4 204,-274.4 148,-274.4"/>
+<text text-anchor="start" x="149.93" y="-279.8" font-family="Arial" font-size="14.00">Concept</text>
+<polygon fill="#c1c7d0" stroke="transparent" points="206,-274.4 206,-294.4 254,-294.4 254,-274.4 206,-274.4"/>
+<text text-anchor="start" x="207.83" y="-279.8" font-family="Arial" font-size="14.00" fill="#42526e">TO DO</text>
 </a>
 </g>
 </g>
-<!-- GEIL&#45;2 -->
-<g id="node4" class="node" pointer-events="visible" data-name="ISSUE-6" data-comment="GEIL-2">
+<!-- EXAMPLE&#45;7 -->
+<g id="node2" class="node" pointer-events="visible" data-name="EXAMPLE-7" data-comment="EXAMPLE-7">
 
-<g id="a_node4"><a xlink:href="https://rickvogel.atlassian.net/browse/ISSUE-6" xlink:title="Click to open: ISSUE-6 - Decoding little endianess fails" style="">
-<path fill="none" stroke="black" d="M560.5,-213.6C560.5,-213.6 252.5,-213.6 252.5,-213.6 246.5,-213.6 240.5,-207.6 240.5,-201.6 240.5,-201.6 240.5,-189.6 240.5,-189.6 240.5,-183.6 246.5,-177.6 252.5,-177.6 252.5,-177.6 560.5,-177.6 560.5,-177.6 566.5,-177.6 572.5,-183.6 572.5,-189.6 572.5,-189.6 572.5,-201.6 572.5,-201.6 572.5,-207.6 566.5,-213.6 560.5,-213.6" style=""/>
-<polygon fill="#de350b" stroke="transparent" points="250.5,-185.6 250.5,-205.6 283.5,-205.6 283.5,-185.6 250.5,-185.6" style=""/>
-<text text-anchor="start" x="252.22" y="-191" font-family="sans-serif" font-size="14.00" fill="#ffebe6" style="">BUG</text>
-<text text-anchor="start" x="287.22" y="-191" font-family="sans-serif" font-size="14.00" style="">ISSUE-6</text>
-<text text-anchor="start" x="343.44" y="-191" font-family="sans-serif" font-size="14.00" style="">Decoding little endianess fails</text>
-<polygon fill="#c1c7d0" stroke="transparent" points="516.5,-185.6 516.5,-205.6 562.5,-205.6 562.5,-185.6 516.5,-185.6" style=""/>
-<text text-anchor="start" x="518.31" y="-191" font-family="sans-serif" font-size="14.00" fill="#42526e" style="">TO DO</text>
+<g id="a_node2"><a xlink:href="https://rickvogel.atlassian.net/browse/EXAMPLE-7" xlink:title="Click to open: EXAMPLE-7 - Reciever">
+<path fill="none" stroke="black" d="M247.5,-213.6C247.5,-213.6 16.5,-213.6 16.5,-213.6 10.5,-213.6 4.5,-207.6 4.5,-201.6 4.5,-201.6 4.5,-189.6 4.5,-189.6 4.5,-183.6 10.5,-177.6 16.5,-177.6 16.5,-177.6 247.5,-177.6 247.5,-177.6 253.5,-177.6 259.5,-183.6 259.5,-189.6 259.5,-189.6 259.5,-201.6 259.5,-201.6 259.5,-207.6 253.5,-213.6 247.5,-213.6"/>
+<polygon fill="#2684ff" stroke="transparent" points="15,-185.6 15,-205.6 55,-205.6 55,-185.6 15,-185.6"/>
+<text text-anchor="start" x="16.72" y="-191" font-family="Arial" font-size="14.00" fill="#deebff">TASK</text>
+<polygon fill="#f5f5f5" stroke="transparent" points="57,-185.6 57,-205.6 139,-205.6 139,-185.6 57,-185.6"/>
+<text text-anchor="start" x="58.71" y="-191" font-family="Arial" font-size="14.00">EXAMPLE-7</text>
+<polygon fill="#f5f5f5" stroke="transparent" points="141,-185.6 141,-205.6 200,-205.6 200,-185.6 141,-185.6"/>
+<text text-anchor="start" x="142.88" y="-191" font-family="Arial" font-size="14.00">Reciever</text>
+<polygon fill="#c1c7d0" stroke="transparent" points="202,-185.6 202,-205.6 250,-205.6 250,-185.6 202,-185.6"/>
+<text text-anchor="start" x="203.83" y="-191" font-family="Arial" font-size="14.00" fill="#42526e">TO DO</text>
 </a>
 </g>
 </g>
-<!-- GEIL&#45;6&#45;&gt;GEIL&#45;1 -->
-<g id="edge3" class="edge" data-name="ISSUE-6-&gt;ISSUE-1" data-comment="GEIL-6-&gt;GEIL-1">
+<!-- EXAMPLE&#45;8&#45;&gt;EXAMPLE&#45;7 -->
+<g id="edge1" class="edge" data-name="EXAMPLE-8-&gt;EXAMPLE-7" data-comment="EXAMPLE-8-&gt;EXAMPLE-7">
 
-<path fill="none" stroke="red" d="M382.01,-177.59C366.62,-167.14 346.2,-153.7 327.5,-142.8 319.83,-138.33 311.53,-133.81 303.45,-129.57" style=""/>
-<polygon fill="red" stroke="red" points="304.96,-126.4 294.47,-124.91 301.74,-132.62 304.96,-126.4" style=""/>
-<text text-anchor="middle" x="371.78" y="-147" font-family="sans-serif" font-size="14.00" style="">blocks</text>
+<path fill="none" stroke="black" d="M132,-266.25C132,-254.12 132,-237.62 132,-223.72"/>
+<polygon fill="black" stroke="black" points="135.5,-223.71 132,-213.71 128.5,-223.71 135.5,-223.71"/>
+<text text-anchor="middle" x="201.67" y="-235.8" font-family="Arial" font-size="14.00">should be done before</text>
 </g>
-<!-- GEIL&#45;5 -->
-<g id="node2" class="node" pointer-events="visible" data-name="ISSUE-7" data-comment="GEIL-5">
+<!-- EXAMPLE&#45;1 -->
+<g id="node3" class="node" pointer-events="visible" data-name="EXAMPLE-1" data-comment="EXAMPLE-1">
 
-<g id="a_node2"><a xlink:href="https://rickvogel.atlassian.net/browse/ISSUE-7" xlink:title="Click to open: ISSUE-7 - Reciever" style="">
-<path fill="none" stroke="black" d="M210,-213.6C210,-213.6 15,-213.6 15,-213.6 9,-213.6 3,-207.6 3,-201.6 3,-201.6 3,-189.6 3,-189.6 3,-183.6 9,-177.6 15,-177.6 15,-177.6 210,-177.6 210,-177.6 216,-177.6 222,-183.6 222,-189.6 222,-189.6 222,-201.6 222,-201.6 222,-207.6 216,-213.6 210,-213.6" style=""/>
-<polygon fill="#2684ff" stroke="transparent" points="13.5,-185.6 13.5,-205.6 53.5,-205.6 53.5,-185.6 13.5,-185.6" style=""/>
-<text text-anchor="start" x="15.22" y="-191" font-family="sans-serif" font-size="14.00" fill="#deebff" style="">TASK</text>
-<text text-anchor="start" x="57.22" y="-191" font-family="sans-serif" font-size="14.00" style="">ISSUE-7</text>
-<text text-anchor="start" x="113.13" y="-191" font-family="sans-serif" font-size="14.00" style="">Reciever</text>
-<polygon fill="#c1c7d0" stroke="transparent" points="166.5,-185.6 166.5,-205.6 212.5,-205.6 212.5,-185.6 166.5,-185.6" style=""/>
-<text text-anchor="start" x="168.31" y="-191" font-family="sans-serif" font-size="14.00" fill="#42526e" style="">TO DO</text>
+<g id="a_node3"><a xlink:href="https://rickvogel.atlassian.net/browse/EXAMPLE-1" xlink:title="Click to open: EXAMPLE-1 - Decoder">
+<path fill="none" stroke="red" d="M425,-124.8C425,-124.8 175,-124.8 175,-124.8 169,-124.8 163,-118.8 163,-112.8 163,-112.8 163,-100.8 163,-100.8 163,-94.8 169,-88.8 175,-88.8 175,-88.8 425,-88.8 425,-88.8 431,-88.8 437,-94.8 437,-100.8 437,-100.8 437,-112.8 437,-112.8 437,-118.8 431,-124.8 425,-124.8"/>
+<polygon fill="#2684ff" stroke="transparent" points="173,-96.8 173,-116.8 213,-116.8 213,-96.8 173,-96.8"/>
+<text text-anchor="start" x="174.72" y="-102.2" font-family="Arial" font-size="14.00" fill="#deebff">TASK</text>
+<polygon fill="#f5f5f5" stroke="transparent" points="215,-96.8 215,-116.8 297,-116.8 297,-96.8 215,-96.8"/>
+<text text-anchor="start" x="216.71" y="-102.2" font-family="Arial" font-size="14.00">EXAMPLE-1</text>
+<polygon fill="#f5f5f5" stroke="transparent" points="299,-96.8 299,-116.8 355,-116.8 355,-96.8 299,-96.8"/>
+<text text-anchor="start" x="300.54" y="-102.2" font-family="Arial" font-size="14.00">Decoder</text>
+<polygon fill="#c1c7d0" stroke="transparent" points="357,-96.8 357,-116.8 427,-116.8 427,-96.8 357,-96.8"/>
+<text text-anchor="start" x="358.54" y="-102.2" font-family="Arial" font-size="14.00" fill="#42526e">BLOCKED</text>
 </a>
 </g>
 </g>
-<!-- GEIL&#45;1 -->
-<!-- GEIL&#45;31 -->
-<g id="edge1" class="edge" data-name="ISSUE-8-&gt;ISSUE-7" data-comment="GEIL-31">
+<!-- EXAMPLE&#45;7&#45;&gt;EXAMPLE&#45;1 -->
+<g id="edge2" class="edge" data-name="EXAMPLE-7-&gt;EXAMPLE-1" data-comment="EXAMPLE-7-&gt;EXAMPLE-1">
 
-<path fill="none" stroke="black" d="M112.5,-266.25C112.5,-254.12 112.5,-237.62 112.5,-223.72" style=""/>
-<polygon fill="black" stroke="black" points="116,-223.71 112.5,-213.71 109,-223.71 116,-223.71" style=""/>
-<text text-anchor="middle" x="174.51" y="-235.8" font-family="sans-serif" font-size="14.00" style="">should be done before</text>
+<path fill="none" stroke="black" d="M161.32,-177.47C179.4,-167.09 203.16,-153.78 224.66,-142.8 233.62,-138.22 243.29,-133.54 252.62,-129.15"/>
+<polygon fill="black" stroke="black" points="254.21,-132.27 261.79,-124.88 251.25,-125.93 254.21,-132.27"/>
+<text text-anchor="middle" x="294.67" y="-147" font-family="Arial" font-size="14.00">should be done before</text>
 </g>
-<!-- GEIL&#45;4 -->
-<g id="node5" class="node" pointer-events="visible" data-name="ISSUE-5" data-comment="GEIL-4">
+<!-- EXAMPLE&#45;2 -->
+<g id="node7" class="node" pointer-events="visible" data-name="EXAMPLE-2" data-comment="EXAMPLE-2">
 
-<g id="a_node5"><a xlink:href="https://rickvogel.atlassian.net/browse/ISSUE-5" xlink:title="Click to open: ISSUE-5 - Example Story" style="">
-<path fill="none" stroke="black" d="M540,-302.4C540,-302.4 255,-302.4 255,-302.4 249,-302.4 243,-296.4 243,-290.4 243,-290.4 243,-278.4 243,-278.4 243,-272.4 249,-266.4 255,-266.4 255,-266.4 540,-266.4 540,-266.4 546,-266.4 552,-272.4 552,-278.4 552,-278.4 552,-290.4 552,-290.4 552,-296.4 546,-302.4 540,-302.4" style=""/>
-<polygon fill="#00875a" stroke="transparent" points="253.5,-274.4 253.5,-294.4 302.5,-294.4 302.5,-274.4 253.5,-274.4" style=""/>
-<text text-anchor="start" x="255.05" y="-279.8" font-family="sans-serif" font-size="14.00" fill="#e3fcef" style="">STORY</text>
-<text text-anchor="start" x="306.22" y="-279.8" font-family="sans-serif" font-size="14.00" style="">ISSUE-5</text>
-<text text-anchor="start" x="362.2" y="-279.8" font-family="sans-serif" font-size="14.00" style="">Example Story</text>
-<polygon fill="#c1c7d0" stroke="transparent" points="449.5,-274.4 449.5,-294.4 542.5,-294.4 542.5,-274.4 449.5,-274.4" style=""/>
-<text text-anchor="start" x="451.46" y="-279.8" font-family="sans-serif" font-size="14.00" fill="#42526e" style="">IN PROGRESS</text>
+<g id="a_node7"><a xlink:href="https://rickvogel.atlassian.net/browse/EXAMPLE-2" xlink:title="Click to open: EXAMPLE-2 - Visualization">
+<path fill="none" stroke="black" d="M588,-36C588,-36 334,-36 334,-36 328,-36 322,-30 322,-24 322,-24 322,-12 322,-12 322,-6 328,0 334,0 334,0 588,0 588,0 594,0 600,-6 600,-12 600,-12 600,-24 600,-24 600,-30 594,-36 588,-36"/>
+<polygon fill="#2684ff" stroke="transparent" points="332,-8 332,-28 372,-28 372,-8 332,-8"/>
+<text text-anchor="start" x="333.72" y="-13.4" font-family="Arial" font-size="14.00" fill="#deebff">TASK</text>
+<polygon fill="#f5f5f5" stroke="transparent" points="374,-8 374,-28 456,-28 456,-8 374,-8"/>
+<text text-anchor="start" x="375.71" y="-13.4" font-family="Arial" font-size="14.00">EXAMPLE-2</text>
+<polygon fill="#f5f5f5" stroke="transparent" points="458,-8 458,-28 540,-28 540,-8 458,-8"/>
+<text text-anchor="start" x="459.7" y="-13.4" font-family="Arial" font-size="14.00">Visualization</text>
+<polygon fill="#c1c7d0" stroke="transparent" points="542,-8 542,-28 590,-28 590,-8 542,-8"/>
+<text text-anchor="start" x="543.83" y="-13.4" font-family="Arial" font-size="14.00" fill="#42526e">TO DO</text>
 </a>
 </g>
 </g>
-<!-- GEIL&#45;4 -->
-<g id="node7" class="node" pointer-events="visible" data-name="ISSUE-2" data-comment="GEIL-4">
+<!-- EXAMPLE&#45;1&#45;&gt;EXAMPLE&#45;2 -->
+<g id="edge5" class="edge" data-name="EXAMPLE-1-&gt;EXAMPLE-2" data-comment="EXAMPLE-1-&gt;EXAMPLE-2">
 
-<g id="a_node7"><a xlink:href="https://rickvogel.atlassian.net/browse/ISSUE-2" xlink:title="Click to open: ISSUE-2 - Visualization" style="">
-<path fill="none" stroke="black" d="M513.5,-36C513.5,-36 293.5,-36 293.5,-36 287.5,-36 281.5,-30 281.5,-24 281.5,-24 281.5,-12 281.5,-12 281.5,-6 287.5,0 293.5,0 293.5,0 513.5,0 513.5,0 519.5,0 525.5,-6 525.5,-12 525.5,-12 525.5,-24 525.5,-24 525.5,-30 519.5,-36 513.5,-36" style=""/>
-<polygon fill="#2684ff" stroke="transparent" points="291.5,-8 291.5,-28 331.5,-28 331.5,-8 291.5,-8" style=""/>
-<text text-anchor="start" x="293.22" y="-13.4" font-family="sans-serif" font-size="14.00" fill="#deebff" style="">TASK</text>
-<text text-anchor="start" x="335.22" y="-13.4" font-family="sans-serif" font-size="14.00" style="">ISSUE-2</text>
-<text text-anchor="start" x="391.18" y="-13.4" font-family="sans-serif" font-size="14.00" style="">Visualization</text>
-<polygon fill="#c1c7d0" stroke="transparent" points="469.5,-8 469.5,-28 515.5,-28 515.5,-8 469.5,-8" style=""/>
-<text text-anchor="start" x="471.31" y="-13.4" font-family="sans-serif" font-size="14.00" fill="#42526e" style="">TO DO</text>
+<path fill="none" stroke="red" d="M331.81,-88.65C357.17,-74.98 392.85,-55.74 420.29,-40.95"/>
+<polygon fill="red" stroke="red" points="422.12,-43.94 429.26,-36.11 418.79,-37.78 422.12,-43.94"/>
+<text text-anchor="middle" x="413.84" y="-58.2" font-family="Arial" font-size="14.00">blocks</text>
+</g>
+<!-- EXAMPLE&#45;6 -->
+<g id="node4" class="node" pointer-events="visible" data-name="EXAMPLE-6" data-comment="EXAMPLE-6">
+
+<g id="a_node4"><a xlink:href="https://rickvogel.atlassian.net/browse/EXAMPLE-6" xlink:title="Click to open: EXAMPLE-6 - Decoding little endianess fails">
+<path fill="none" stroke="black" d="M644,-213.6C644,-213.6 290,-213.6 290,-213.6 284,-213.6 278,-207.6 278,-201.6 278,-201.6 278,-189.6 278,-189.6 278,-183.6 284,-177.6 290,-177.6 290,-177.6 644,-177.6 644,-177.6 650,-177.6 656,-183.6 656,-189.6 656,-189.6 656,-201.6 656,-201.6 656,-207.6 650,-213.6 644,-213.6"/>
+<polygon fill="#de350b" stroke="transparent" points="288,-185.6 288,-205.6 322,-205.6 322,-185.6 288,-185.6"/>
+<text text-anchor="start" x="289.83" y="-191" font-family="Arial" font-size="14.00" fill="#ffebe6">BUG</text>
+<polygon fill="#f5f5f5" stroke="transparent" points="324,-185.6 324,-205.6 406,-205.6 406,-185.6 324,-185.6"/>
+<text text-anchor="start" x="325.71" y="-191" font-family="Arial" font-size="14.00">EXAMPLE-6</text>
+<polygon fill="#f5f5f5" stroke="transparent" points="408,-185.6 408,-205.6 596,-205.6 596,-185.6 408,-185.6"/>
+<text text-anchor="start" x="409.78" y="-191" font-family="Arial" font-size="14.00">Decoding little endianess fails</text>
+<polygon fill="#c1c7d0" stroke="transparent" points="598,-185.6 598,-205.6 646,-205.6 646,-185.6 598,-185.6"/>
+<text text-anchor="start" x="599.83" y="-191" font-family="Arial" font-size="14.00" fill="#42526e">TO DO</text>
 </a>
 </g>
 </g>
-<!-- GEIL&#45;2&#45;&gt;GEIL&#45;1 -->
-<g id="node3" class="node" pointer-events="visible" data-name="ISSUE-1" data-comment="GEIL-2-&gt;GEIL-1">
+<!-- EXAMPLE&#45;6&#45;&gt;EXAMPLE&#45;1 -->
+<g id="edge3" class="edge" data-name="EXAMPLE-6-&gt;EXAMPLE-1" data-comment="EXAMPLE-6-&gt;EXAMPLE-1">
 
-<g id="a_node3"><a xlink:href="https://rickvogel.atlassian.net/browse/ISSUE-1" xlink:title="Click to open: ISSUE-1 - Decoder" style="">
-<path fill="none" stroke="red" d="M368,-124.8C368,-124.8 151,-124.8 151,-124.8 145,-124.8 139,-118.8 139,-112.8 139,-112.8 139,-100.8 139,-100.8 139,-94.8 145,-88.8 151,-88.8 151,-88.8 368,-88.8 368,-88.8 374,-88.8 380,-94.8 380,-100.8 380,-100.8 380,-112.8 380,-112.8 380,-118.8 374,-124.8 368,-124.8" style=""/>
-<polygon fill="#2684ff" stroke="transparent" points="149.5,-96.8 149.5,-116.8 189.5,-116.8 189.5,-96.8 149.5,-96.8" style=""/>
-<text text-anchor="start" x="151.22" y="-102.2" font-family="sans-serif" font-size="14.00" fill="#deebff" style="">TASK</text>
-<text text-anchor="start" x="193.22" y="-102.2" font-family="sans-serif" font-size="14.00" style="">ISSUE-1</text>
-<text text-anchor="start" x="249.29" y="-102.2" font-family="sans-serif" font-size="14.00" style="">Decoder</text>
-<polygon fill="#c1c7d0" stroke="transparent" points="300.5,-96.8 300.5,-116.8 370.5,-116.8 370.5,-96.8 300.5,-96.8" style=""/>
-<text text-anchor="start" x="302.44" y="-102.2" font-family="sans-serif" font-size="14.00" fill="#42526e" style="">BLOCKED</text>
+<path fill="none" stroke="red" d="M434.01,-177.45C407.59,-163.72 370.37,-144.37 341.85,-129.55"/>
+<polygon fill="red" stroke="red" points="343.41,-126.42 332.93,-124.91 340.18,-132.63 343.41,-126.42"/>
+<text text-anchor="middle" x="417.84" y="-147" font-family="Arial" font-size="14.00">blocks</text>
+</g>
+<!-- EXAMPLE&#45;5 -->
+<g id="node5" class="node" pointer-events="visible" data-name="EXAMPLE-5" data-comment="EXAMPLE-5">
+
+<g id="a_node5"><a xlink:href="https://rickvogel.atlassian.net/browse/EXAMPLE-5" xlink:title="Click to open: EXAMPLE-5 - Example Story">
+<path fill="none" stroke="black" d="M626,-302.4C626,-302.4 294,-302.4 294,-302.4 288,-302.4 282,-296.4 282,-290.4 282,-290.4 282,-278.4 282,-278.4 282,-272.4 288,-266.4 294,-266.4 294,-266.4 626,-266.4 626,-266.4 632,-266.4 638,-272.4 638,-278.4 638,-278.4 638,-290.4 638,-290.4 638,-296.4 632,-302.4 626,-302.4"/>
+<polygon fill="#00875a" stroke="transparent" points="292,-274.4 292,-294.4 344,-294.4 344,-274.4 292,-274.4"/>
+<text text-anchor="start" x="293.89" y="-279.8" font-family="Arial" font-size="14.00" fill="#e3fcef">STORY</text>
+<polygon fill="#f5f5f5" stroke="transparent" points="346,-274.4 346,-294.4 428,-294.4 428,-274.4 346,-274.4"/>
+<text text-anchor="start" x="347.71" y="-279.8" font-family="Arial" font-size="14.00">EXAMPLE-5</text>
+<polygon fill="#f5f5f5" stroke="transparent" points="430,-274.4 430,-294.4 525,-294.4 525,-274.4 430,-274.4"/>
+<text text-anchor="start" x="431.98" y="-279.8" font-family="Arial" font-size="14.00">Example Story</text>
+<polygon fill="#c1c7d0" stroke="transparent" points="527,-274.4 527,-294.4 628,-294.4 628,-274.4 527,-274.4"/>
+<text text-anchor="start" x="528.88" y="-279.8" font-family="Arial" font-size="14.00" fill="#42526e">IN PROGRESS</text>
 </a>
 </g>
 </g>
-<!-- GEIL&#45;1&#45;&gt;GEIL&#45;2 -->
-<g id="edge5" class="edge" data-name="ISSUE-1-&gt;ISSUE-2" data-comment="GEIL-1-&gt;GEIL-2">
+<!-- EXAMPLE&#45;4 -->
+<g id="node6" class="node" pointer-events="visible" data-name="EXAMPLE-4" data-comment="EXAMPLE-4">
 
-<path fill="none" stroke="red" d="M287.95,-88.65C310.43,-75.1 341.99,-56.07 366.45,-41.33" style=""/>
-<polygon fill="red" stroke="red" points="368.35,-44.27 375.11,-36.11 364.74,-38.28 368.35,-44.27" style=""/>
-<text text-anchor="middle" x="361.78" y="-58.2" font-family="sans-serif" font-size="14.00" style="">blocks</text>
-</g>
-<g id="edge2" class="edge" data-name="ISSUE-7-&gt;ISSUE-1" data-comment="GEIL-1-&gt;GEIL-2">
-
-<path fill="none" stroke="black" d="M141.54,-177.45C164.49,-163.9 196.71,-144.87 221.68,-130.13" style=""/>
-<polygon fill="black" stroke="black" points="223.69,-133.01 230.52,-124.91 220.13,-126.98 223.69,-133.01" style=""/>
-<text text-anchor="middle" x="261.51" y="-147" font-family="sans-serif" font-size="14.00" style="">should be done before</text>
-</g>
-<g id="node6" class="node" pointer-events="visible" data-name="ISSUE-4" data-comment="GEIL-1-&gt;GEIL-2">
-
-<g id="a_node6"><a xlink:href="https://rickvogel.atlassian.net/browse/ISSUE-4" xlink:title="Click to open: ISSUE-4 - CLONE - Visualization" style="">
-<path fill="none" stroke="black" d="M684.5,-124.8C684.5,-124.8 410.5,-124.8 410.5,-124.8 404.5,-124.8 398.5,-118.8 398.5,-112.8 398.5,-112.8 398.5,-100.8 398.5,-100.8 398.5,-94.8 404.5,-88.8 410.5,-88.8 410.5,-88.8 684.5,-88.8 684.5,-88.8 690.5,-88.8 696.5,-94.8 696.5,-100.8 696.5,-100.8 696.5,-112.8 696.5,-112.8 696.5,-118.8 690.5,-124.8 684.5,-124.8" style=""/>
-<polygon fill="#2684ff" stroke="transparent" points="408.5,-96.8 408.5,-116.8 448.5,-116.8 448.5,-96.8 408.5,-96.8" style=""/>
-<text text-anchor="start" x="410.22" y="-102.2" font-family="sans-serif" font-size="14.00" fill="#deebff" style="">TASK</text>
-<text text-anchor="start" x="452.22" y="-102.2" font-family="sans-serif" font-size="14.00" style="">ISSUE-4</text>
-<text text-anchor="start" x="508.01" y="-102.2" font-family="sans-serif" font-size="14.00" style="">CLONE - Visualization</text>
-<polygon fill="#b2d8b9" stroke="transparent" points="644.5,-96.8 644.5,-116.8 686.5,-116.8 686.5,-96.8 644.5,-96.8" style=""/>
-<text text-anchor="start" x="646.06" y="-102.2" font-family="sans-serif" font-size="14.00" fill="#00875a" style="">DONE</text>
+<g id="a_node6"><a xlink:href="https://rickvogel.atlassian.net/browse/EXAMPLE-4" xlink:title="Click to open: EXAMPLE-4 - CLONE - Visualization">
+<path fill="none" stroke="black" d="M778.5,-124.8C778.5,-124.8 467.5,-124.8 467.5,-124.8 461.5,-124.8 455.5,-118.8 455.5,-112.8 455.5,-112.8 455.5,-100.8 455.5,-100.8 455.5,-94.8 461.5,-88.8 467.5,-88.8 467.5,-88.8 778.5,-88.8 778.5,-88.8 784.5,-88.8 790.5,-94.8 790.5,-100.8 790.5,-100.8 790.5,-112.8 790.5,-112.8 790.5,-118.8 784.5,-124.8 778.5,-124.8"/>
+<polygon fill="#2684ff" stroke="transparent" points="466,-96.8 466,-116.8 506,-116.8 506,-96.8 466,-96.8"/>
+<text text-anchor="start" x="467.72" y="-102.2" font-family="Arial" font-size="14.00" fill="#deebff">TASK</text>
+<polygon fill="#f5f5f5" stroke="transparent" points="508,-96.8 508,-116.8 590,-116.8 590,-96.8 508,-96.8"/>
+<text text-anchor="start" x="509.71" y="-102.2" font-family="Arial" font-size="14.00">EXAMPLE-4</text>
+<polygon fill="#f5f5f5" stroke="transparent" points="592,-96.8 592,-116.8 735,-116.8 735,-96.8 592,-96.8"/>
+<text text-anchor="start" x="593.86" y="-102.2" font-family="Arial" font-size="14.00">CLONE - Visualization</text>
+<polygon fill="#b2d8b9" stroke="transparent" points="737,-96.8 737,-116.8 781,-116.8 781,-96.8 737,-96.8"/>
+<text text-anchor="start" x="738.78" y="-102.2" font-family="Arial" font-size="14.00" fill="#00875a">DONE</text>
 </a>
 </g>
 </g>
-<!-- GEIL&#45;4&#45;&gt;GEIL&#45;2 -->
-<g id="edge4" class="edge" data-name="ISSUE-4-&gt;ISSUE-2" data-comment="GEIL-4-&gt;GEIL-2">
+<!-- EXAMPLE&#45;4&#45;&gt;EXAMPLE&#45;2 -->
+<g id="edge4" class="edge" data-name="EXAMPLE-4-&gt;EXAMPLE-2" data-comment="EXAMPLE-4-&gt;EXAMPLE-2">
 
-<path fill="none" stroke="black" d="M519.05,-88.65C496.57,-75.1 465.01,-56.07 440.55,-41.33" style=""/>
-<polygon fill="black" stroke="black" points="442.26,-38.28 431.89,-36.11 438.65,-44.27 442.26,-38.28" style=""/>
-<text text-anchor="middle" x="505.38" y="-58.2" font-family="sans-serif" font-size="14.00" style="">clones</text>
+<path fill="none" stroke="black" d="M590.99,-88.65C565.48,-74.98 529.57,-55.74 501.96,-40.95"/>
+<polygon fill="black" stroke="black" points="503.41,-37.75 492.94,-36.11 500.1,-43.92 503.41,-37.75"/>
+<text text-anchor="middle" x="576.23" y="-58.2" font-family="Arial" font-size="14.00">clones</text>
 </g>
 </g>
 </svg>
